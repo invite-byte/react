@@ -1,0 +1,78 @@
+
+.booking-page{
+ padding:40px;
+background:#e6f2ff;
+}
+
+.title{
+text-align:center;
+margin-bottom:30px;
+margin-top: 50px;
+}
+
+.booking-container{
+display:flex;
+gap:40px;
+justify-content:center;
+}
+
+.left-section{
+background:white;
+padding:20px;
+width:300px;
+border-radius:10px;
+}
+
+.ticket-info p{
+margin:10px 0;
+}
+
+.book-btn{
+background:#007bff;
+color:white;
+border:none;
+padding:10px;
+width:100%;
+border-radius:5px;
+cursor:pointer;
+}
+
+.booking{
+background:white;
+padding:20px;
+width:350px;
+border-radius:10px;
+}
+
+.ticket-row{
+display:flex;
+justify-content:space-between;
+margin:10px 0;
+}
+
+.ticket-row button{
+width:30px;
+height:30px;
+}
+
+.input{
+width:100%;
+padding:8px;
+margin:10px 0;
+}
+
+.checkout-btn{
+background:orange;
+border:none;
+padding:10px;
+width:100%;
+border-radius:5px;
+cursor:pointer;
+}
+
+.secure{
+text-align:center;
+margin-top:30px;
+font-weight:bold;
+
+}

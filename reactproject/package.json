@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Dhineshi-coder/AdvantureThemePark.git",
+  "homepage": "https://github.com/invite-byte/react.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
